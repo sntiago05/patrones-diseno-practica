@@ -1,0 +1,1 @@
+Decorator avanzado: agrega cifrado y reintentos a un Notificador sin tocar su implementación base.

@@ -1,0 +1,1 @@
+ integra una librería externa (formato A) en un cliente que espera formato B, con manejo de errores y timeouts.

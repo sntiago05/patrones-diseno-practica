@@ -1,0 +1,1 @@
+Factory + Strategy: crea una fábrica de métodos de pago que devuelva estrategias (Tarjeta, Efectivo, Crypto) y calcula totales con y sin comisiones.

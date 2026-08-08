@@ -1,0 +1,2 @@
+Template + Observer:
+ diseña un checkout que, al finalizar, dispare eventos para notificar a email, auditoría y analytics.
